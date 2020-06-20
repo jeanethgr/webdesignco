@@ -1,2 +1,2 @@
-# webdesignco4everyone
+# webdesignco
 The web design site for everybody
